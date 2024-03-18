@@ -15,7 +15,7 @@ A versatile developer passionate about building web applications and solving  pr
 ### Web Development
 
 - **Front-end:** HTML, CSS, Bootstrap
-- **Tools:** Git, VS Code
+- **Tools:** Git&Github, VS Code
 
 ### C++ Data Structures and Algorithms
 
