@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/himalaya_singhh" target="blank"><img src="https://img.shields.io/twitter/follow/himalaya_singhh?logo=twitter&style=for-the-badge" alt="himalaya_singhh" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **html,css and c++**
+- 💬 Ask me about **HTML,CSS and c++**
 
 - 📫 How to reach me **himalayasingh337@gmail.com**
 
