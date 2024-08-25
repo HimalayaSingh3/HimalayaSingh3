@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Himalaya Singh, a full-time full-stack developer 👨‍💻fun🚀</div>  
+### <div align="center">I'm Himalaya Singh, a full-time full-stack developer 👨‍💻🚀</div>  
   
 
 - 🔭 I’m currently working on Full Stack Projects  
