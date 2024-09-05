@@ -1,10 +1,11 @@
 <div>
 
-### <div align="center">Hi 👋, I'm Himalaya Singh</div>  
-___________________________________________________________________________________________________
-### <div align="center">A passionate developer from India</div>  
+<h1 align="center">Hi 👋, I'm Himalaya Singh</h1>
+<h3 align="center">A passionate developer from India</h3>
 
-[![](https://visitcount.itsvg.in/api?id=HimalayaSingh3&icon=5&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimalayaSingh3&label=Profile%20views&color=0e75b6&style=flat" alt="HimalayaSingh3" /> </p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HimalayaSingh3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
