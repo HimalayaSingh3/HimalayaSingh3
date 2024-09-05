@@ -1,6 +1,12 @@
-<div align="center">
+<div>
 
-### <div align="center">I'm Himalaya Singh, a full-time Software Engineer 👨‍💻🚀</div>  
+### <div align="center">Hi 👋, I'm Himalaya Singh</div>  
+___________________________________________________________________________________________________
+### <div align="center">A passionate developer from India</div>  
+
+[![](https://visitcount.itsvg.in/api?id=HimalayaSingh3&icon=5&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=HimalayaSingh3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
   
 
 # 💫 About Me:
@@ -23,9 +29,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=HimalayaSingh3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HimalayaSingh3&icon=5&color=0)](https://visitcount.itsvg.in)
 
 </div>
