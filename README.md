@@ -1,10 +1,10 @@
-<div>
+<div align="left">
 
 <h1 align="center">Hi 👋, I'm Himalaya Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimalayaSingh3&label=Profile%20views&color=0e75b6&style=flat" alt="HimalayaSingh3" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=HimalayaSingh3&label=Profile%20views&color=0e75b6&style=flat" alt="HimalayaSingh3" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HimalayaSingh3&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -39,7 +39,15 @@
 ![](https://github-contributor-stats.vercel.app/api?username=HimalayaSingh3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+  <h2>🐍 Contributions 🐍</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+</div>
 
----
+<h2 align="left">Leetcode Info<h2>  
+<p align="left">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/himalayasingh337?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+
 
 </div>
