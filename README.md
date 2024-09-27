@@ -4,6 +4,11 @@
 <h3 align="center">A passionate developer from India</h3>
 
 
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
+</div>
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HimalayaSingh3&label=Profile%20views&color=0e75b6&style=flat" alt="HimalayaSingh3" /> </p>
 
 ## 🏆 GitHub Trophies
@@ -48,6 +53,7 @@
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/himalayasingh337?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
+
 
 
 </div>
