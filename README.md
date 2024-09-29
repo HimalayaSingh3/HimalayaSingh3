@@ -16,7 +16,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Node Js<br>🌱 I’m currently learning AI<br>💬 Ask me about C/C++, HTML, CSS, Javascript
+🔭 I’m currently working on Node Js<br>🌱 I’m currently learning AI<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js
 
 
 ## 🌐 Socials:
