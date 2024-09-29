@@ -16,7 +16,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Chat Application<br>🌱 I’m currently learning React Js<br>💬 Ask me about C/C++, HTML, CSS, Javascript
+🔭 I’m currently working on Node Js<br>🌱 I’m currently learning AI<br>💬 Ask me about C/C++, HTML, CSS, Javascript
 
 
 ## 🌐 Socials:
