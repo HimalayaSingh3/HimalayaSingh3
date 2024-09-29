@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 <h1 align="center">Hi 👋, I'm Himalaya Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
@@ -32,10 +32,13 @@
 <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
 </div>
 
+<div align="center">
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HimalayaSingh3&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HimalayaSingh3&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimalayaSingh3&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -48,11 +51,12 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 </div>
 
-<h2 align="left">Leetcode Info<h2>  
-<p align="left">
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/himalayasingh337?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
+</div>
 
 
 
