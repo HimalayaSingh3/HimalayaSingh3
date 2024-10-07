@@ -30,11 +30,6 @@
 
 
 
-
-## 🔰 Badges:
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-</div>
-
 <div align="center">
   
 # 📊 GitHub Stats:
