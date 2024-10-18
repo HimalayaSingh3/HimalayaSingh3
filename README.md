@@ -34,9 +34,60 @@
 <div align="center">
   
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HimalayaSingh3&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HimalayaSingh3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimalayaSingh3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <table align="center" width="100%">
+    <tr>
+      <td colspan="1" align="center">
+        <img
+          width="400px"
+          alt="Shahriyar-Hosen :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=HimalayaSingh3&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+        />
+      </td>
+      <td colspan="1" align="center">
+      <img
+          align="center"
+          width="400px"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimalayaSingh3&theme=blue_green"
+          alt="Profile details" 
+        />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+       <img
+          align="center"
+          width="70%"
+          src="https://github-readme-streak-stats.herokuapp.com?user=HimalayaSingh3&theme=blue-green&hide_border=true"
+        />
+      </td>
+    </tr>
+    <tr>
+     <td colspan="2">
+       <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
+          <img
+            width="460px"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HimalayaSingh3&theme=blue_green&utcOffset=8"
+          />
+         <img
+            width="340px"
+            alt="Shahriyar-Hosen :: Top Langs"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimalayaSingh3&langs_count=20&theme=blue-green&layout=compact&hide=html"
+         />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div style="display: flex; justify-content: center;" align="center">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HimalayaSingh3&theme=blue_green" alt="Top languages by repo" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HimalayaSingh3&theme=blue_green" alt="Top languages by commit" width="400" />
+        </div>
+      </td>
+    </tr>
+</table>
+</div>
+
 
 ---
 
