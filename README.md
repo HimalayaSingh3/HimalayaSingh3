@@ -16,7 +16,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Node Js<br>🌱 I’m currently learning AI<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js
+🔭 I’m currently working on Full Stack Chat App Js<br>🌱 I’m currently learning Django<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs
 
 
 ## 🌐 Socials:
