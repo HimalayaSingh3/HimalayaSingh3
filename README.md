@@ -16,7 +16,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently learning Docker<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs
+🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Docker<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs
 
 
 ## 🌐 Socials:
