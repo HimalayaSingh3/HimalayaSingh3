@@ -16,14 +16,11 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Chat App<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs
+🔭 I’m currently learning Docker<br>🌱 I’m currently learning TypeScript<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himalaya___singh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/himalaya-singh-ba44722a4) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Himalaya_Singh) 
-
-
-
 
 
 # 💻 Tech Stack:
