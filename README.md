@@ -16,7 +16,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Project<br>🌱 I’m currently learning Django<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs
+🔭 I’m currently working on Full Stack Project<br>🌱 I’m currently learning Django<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs, Docker
 
 
 ## 🌐 Socials:
