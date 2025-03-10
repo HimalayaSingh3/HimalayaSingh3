@@ -1,7 +1,6 @@
-<div align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzlsZHg3eGliNTBhOWYwZmU0Z3NxaWZzZnlsdHpkYTY3YmVwNXhleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/kAm4u0lhDCmXnugz6p/giphy.gif" width ="50"> <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFF00&random=false&width=600&lines=Hey+there!+It's+Himalaya Singh...;Passionate+21-year-old%2C+Developer;Full+Stack+Enthusiast;Computer+Science+Student%2C+Project+Builder"/>
 
-<h1 align="center">Hi 👋, I'm Himalaya Singh</h1>
-<h3 align="center">A Passionate Developer From India</h3>
+<div align="center">
 
 
 <div align="center">
