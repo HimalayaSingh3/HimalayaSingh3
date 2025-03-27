@@ -15,7 +15,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Go/Golang<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs, Redis, Docker
+🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Kafka<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs, Redis, Docker
 
 
 ## 🌐 Socials:
