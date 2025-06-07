@@ -76,9 +76,14 @@
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/>
   </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://api.iconify.design/simple-icons:django.svg?width=48&height=48" width="48" alt="Django"/>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma"/>
+  </a>
+
+<a href="https://turso.tech/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/123233040?s=200&v=4" width="48" alt="Turso DB"/>
 </a>
+
 
   <a href="https://go.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=go" width="48" alt="GoLang"/>
