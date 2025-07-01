@@ -52,6 +52,14 @@
   <a href="https://reactjs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
   </a>
+   <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/>
+  </a>
+
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>
+  </a>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>
   </a>
@@ -61,9 +69,7 @@
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mongodb" width="48" alt="MongoDB"/>
   </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" alt="PostgreSQL"/>
-  </a>
+ 
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" width="48" alt="Docker"/>
   </a>
@@ -80,15 +86,22 @@
     <img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma"/>
   </a>
 
-<a href="https://turso.tech/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/123233040?s=200&v=4" width="48" alt="Turso DB"/>
+
+<a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/>
+  </a>
+
+  <a href="https://jupyter.org/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" width="48" alt="Jupyter Notebook"/>
 </a>
 
-
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go" width="48" alt="GoLang"/>
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/mysql.svg" width="48" alt="MySQL"/>
   </a>
-  
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="48" alt="Postman"/>
+  </a>
 </div>
 
 ---
