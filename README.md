@@ -86,6 +86,20 @@
     <img src="https://skillicons.dev/icons?i=prisma" width="48" alt="Prisma"/>
   </a>
 
+<!-- Sequelize -->
+<a href="https://sequelize.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=sequelize" width="48" alt="Sequelize" />
+</a>
+
+<!-- React Native -->
+<a href="https://reactnative.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React Native" />
+</a>
+
+<!-- Jenkins -->
+<a href="https://www.jenkins.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" alt="Jenkins" />
+</a>
 
 <a href="https://redis.io/" target="_blank">
     <img src="https://skillicons.dev/icons?i=redis" width="48" alt="Redis"/>
