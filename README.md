@@ -91,10 +91,6 @@
   <img src="https://skillicons.dev/icons?i=sequelize" width="48" alt="Sequelize" />
 </a>
 
-<!-- React Native -->
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" width="48" alt="React Native" />
-</a>
 
 <!-- Jenkins -->
 <a href="https://www.jenkins.io/" target="_blank">
@@ -116,6 +112,16 @@
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="48" alt="Postman"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"
+   style="display: inline-block; padding: 6px; background: white; border-radius: 8px;">
+  <img src="https://www.svgrepo.com/show/330413/fastapi.svg" width="48" alt="FastAPI" />
+</a>
+
+  <a href="https://www.langchain.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="48" alt="LangChain" />
+</a>
+
+
 </div>
 
 ---
