@@ -1,6 +1,11 @@
 <div align="center">
 
-<h1>Himalaya Singh</h1>
+<div align="left">
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&pause=1000&background=FF020200&width=800&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Himalaya+Singh;%F0%9F%A7%A0+Full+Stack+Developer+%7C+BCA+Student+%7C+21+y%2Fo+%7C+India;%F0%9F%92%BB+MERN+Stack+%7C+TypeScript+%7C+Redis+%7C+Docker+%7C+Python)](https://git.io/typing-svg)
+  
+</div>
+
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500">
 </div>
