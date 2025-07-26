@@ -125,6 +125,14 @@
   <a href="https://www.langchain.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="48" alt="LangChain" />
 </a>
+<a href="https://nestjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nestjs" width="48" alt="NestJS"/>
+</a>
+
+<a href="https://crewai.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/crewai.svg" width="48" alt="CrewAI logo"/>
+</a>
+
 
 
 </div>
