@@ -2,7 +2,7 @@
 
 <div align="left">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&pause=1000&background=FF020200&width=800&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Himalaya+Singh;%F0%9F%A7%A0+Full+Stack+Developer+%7C+BCA+Student+%7C+21+y%2Fo+%7C+India;%F0%9F%92%BB+MERN+Stack+%7C+TypeScript+%7C+Redis+%7C+Docker+%7C+Python)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=arial&weight=900&size=30&pause=1000&background=FF020200&width=800&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Himalaya+Singh;%F0%9F%A7%A0+Backend+Developer+%7C+BCA+Student+%7C+21+y%2Fo+%7C+India;%F0%9F%92%BB+Node+%7C+Express+%7C+TypeScript+%7C+Redis+%7C+Docker+%7C+Python)](https://git.io/typing-svg)
   
 </div>
 
@@ -18,7 +18,7 @@
   
 
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Jest<br>💬 Ask me about C/C++, Python HTML, CSS, Javascript, Tailwind, MUI, React Js, MongoDB, ExpressJs, NodeJs, Redis, Docker
+🔭 I’m currently working on Full Stack Projects<br>🌱 I’m currently learning Jest<br>💬 Ask me about C/C++, Python, MongoDB, ExpressJs, NodeJs, Redis, Docker
 
 
 ## 🌐 Socials:
