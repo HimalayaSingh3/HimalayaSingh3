@@ -29,24 +29,7 @@
 # 💻 Tech Stack:
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS"/>
-</a>
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind CSS"/>
-</a>
-<a href="https://ui.shadcn.dev/" target="_blank">
-  <img src="https://api.iconify.design/simple-icons/shadcnui.svg?width=48&height=48" width="48" alt="ShadCN UI"/>
-</a>
-<a href="https://heroicons.com/" target="_blank">
-  <img src="https://api.iconify.design/heroicons:home.svg?width=48&height=48" width="48" alt="Heroicons"/>
-</a>
-<a href="https://mui.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mui" width="48" alt="Material UI"/>
-</a>
+
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/>
 </a>
@@ -54,17 +37,12 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/>
   </a>
-  <a href="https://reactjs.org" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/>
-  </a>
+ 
    <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/>
   </a>
 
-  <!-- Next.js -->
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js"/>
-  </a>
+ 
   <a href="https://nodejs.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/>
   </a>
@@ -121,6 +99,7 @@
    style="display: inline-block; padding: 6px; background: white; border-radius: 8px;">
   <img src="https://www.svgrepo.com/show/330413/fastapi.svg" width="48" alt="FastAPI" />
 </a>
+<img width="50" height="60" alt="svgviewer-png-output" src="https://neon.com/favicon/favicon.png" />
 
   <a href="https://www.langchain.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.ico" width="48" alt="LangChain" />
@@ -130,7 +109,7 @@
 </a>
 
 <a href="https://crewai.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/crewai.svg" width="48" alt="CrewAI logo"/>
+  <img width="72" src="https://freeappsai.com/wp-content/uploads/2024/12/CrewAI.png"  alt="CrewAI logo"/>
 </a>
 
 
